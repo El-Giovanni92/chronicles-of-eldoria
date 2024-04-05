@@ -1,5 +1,5 @@
 # Chronicles Of Eldoria
-### Project Description
+## Project Description
 
 This project is based on the development of a game using Agile methodology, Test-Driven Development (TDD), and the implementation of various design patterns to improve code flexibility and reusability. Among the design patterns used are Strategy, Singleton, and Builder. The development process strictly followed Test-Driven Development, applying the red, green, and gray phases to test various parts of the code before integration.
 
@@ -7,11 +7,11 @@ Great emphasis was placed from the beginning on the type of architecture to adop
 
 I hope the game provides enjoyment and that the entire development system, including architecture, UML, and project report, can be helpful for future Agile methodology applications. Further details can be found in the project report uploaded to this repository.
 
-### Story Introduction
+## Story Introduction
 
-The beginning of the game's story is uploaded to the repository. It is recommended to read it before starting the game for a fair and complete experience.
+The beginning of the game's story is uploaded to the repository as "Incipit - Chronicles of Eldoria.pdf". It is recommended to read it before starting the game for a fair and complete experience.
 
-### Getting Started
+## Getting Started
 
 To run the game:
 - Make sure you have JDK or JRE installed on your system.
