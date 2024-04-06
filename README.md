@@ -18,3 +18,6 @@ To run the game:
 - Run the JAR file with a double click or from the terminal using the command "java -jar chronicles-of-eldoria.jar".
 
 Enjoy!
+
+###Contributors:
+@madoverflow, @vincenzobarreca, @manuele1912, @g4lius
