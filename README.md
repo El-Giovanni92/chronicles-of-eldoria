@@ -19,5 +19,5 @@ To run the game:
 
 Enjoy!
 
-###Contributors:
-@madoverflow, @vincenzobarreca, @manuele1912, @g4lius
+### Contributors:
+[madoverflow](https://github.com/madoverflow), [vincenzobarreca](https://github.com/vincenzobarreca), [manuele1912](https://github.com/manuele1912), [g4lius](https://github.com/g4lius)
